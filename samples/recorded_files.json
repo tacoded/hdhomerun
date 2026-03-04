@@ -1,0 +1,19 @@
+[
+  {
+    "SeriesID": "C15523389EN6S4L",
+    "Title": "The Rookie",
+    "Category": "series",
+    "ImageURL": "https://img.hdhomerun.com/titles/C15523389EN6S4L.jpg",
+    "StartTime": 1772506800,
+    "New": 1,
+    "EpisodesURL": "http://hdhr-10ad25aa.local/recorded_files.json?SeriesID=C15523389EN6S4L"
+  },
+  {
+    "SeriesID": "C20396651ENO2NT",
+    "Title": "WLWT News 5 at 4:00",
+    "Category": "news",
+    "ImageURL": "https://img.hdhomerun.com/titles/C20396651ENO2NT.jpg",
+    "StartTime": 1772485200,
+    "EpisodesURL": "http://hdhr-10ad25aa.local/recorded_files.json?SeriesID=C20396651ENO2NT"
+  }
+]

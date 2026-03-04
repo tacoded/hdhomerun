@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1 channel-id="2.1" channel-number="2.1" tvg-name="WDTN HD",2.1 WDTN HD
+http://hdhr-10ad25aa.local:5004/auto/v2.1
+#EXTINF:-1 channel-id="2.2" channel-number="2.2" tvg-name="ESCAPE",2.2 ESCAPE
+http://hdhr-10ad25aa.local:5004/auto/v2.2
+#EXTINF:-1 channel-id="5.1" channel-number="5.1" tvg-name="WLWT-HD",5.1 WLWT-HD
+http://hdhr-10ad25aa.local:5004/auto/v5.1
+#EXTINF:-1 channel-id="5.2" channel-number="5.2" tvg-name="WLWT-ME",5.2 WLWT-ME
+http://hdhr-10ad25aa.local:5004/auto/v5.2
+#EXTINF:-1 channel-id="5.4" channel-number="5.4" tvg-name="STORY",5.4 STORY
+http://hdhr-10ad25aa.local:5004/auto/v5.4
+#EXTINF:-1 channel-id="5.5" channel-number="5.5" tvg-name="GET TV",5.5 GET TV
+http://hdhr-10ad25aa.local:5004/auto/v5.5
+#EXTINF:-1 channel-id="9.1" channel-number="9.1" tvg-name="WCPO-HD",9.1 WCPO-HD
+http://hdhr-10ad25aa.local:5004/auto/v9.1
+#EXTINF:-1 channel-id="9.2" channel-number="9.2" tvg-name="CourtTV",9.2 CourtTV
+http://hdhr-10ad25aa.local:5004/auto/v9.2
+#EXTINF:-1 channel-id="9.3" channel-number="9.3" tvg-name="Bounce",9.3 Bounce
+http://hdhr-10ad25aa.local:5004/auto/v9.3
+#EXTINF:-1 channel-id="9.4" channel-number="9.4" tvg-name="MYSTERY",9.4 MYSTERY
+http://hdhr-10ad25aa.local:5004/auto/v9.4
+#EXTINF:-1 channel-id="9.5" channel-number="9.5" tvg-name="LAFF",9.5 LAFF
+http://hdhr-10ad25aa.local:5004/auto/v9.5
+#EXTINF:-1 channel-id="9.6" channel-number="9.6" tvg-name="BUSTED",9.6 BUSTED
+http://hdhr-10ad25aa.local:5004/auto/v9.6
+#EXTINF:-1 channel-id="9.7" channel-number="9.7" tvg-name="HSN",9.7 HSN
+http://hdhr-10ad25aa.local:5004/auto/v9.7
+#EXTINF:-1 channel-id="12.1" channel-number="12.1" tvg-name="CBS",12.1 CBS
+http://hdhr-10ad25aa.local:5004/auto/v12.1
+#EXTINF:-1 channel-id="12.2" channel-number="12.2" tvg-name="CW",12.2 CW
+http://hdhr-10ad25aa.local:5004/auto/v12.2
+#EXTINF:-1 channel-id="12.3" channel-number="12.3" tvg-name="TheNest",12.3 TheNest
+http://hdhr-10ad25aa.local:5004/auto/v12.3
+#EXTINF:-1 channel-id="14.1" channel-number="14.1" tvg-name="WPTO-HD",14.1 WPTO-HD
+http://hdhr-10ad25aa.local:5004/auto/v14.1
+#EXTINF:-1 channel-id="14.2" channel-number="14.2" tvg-name="Explore",14.2 Explore
+http://hdhr-10ad25aa.local:5004/auto/v14.2
+#EXTINF:-1 channel-id="14.3" channel-number="14.3" tvg-name="Kids",14.3 Kids
+http://hdhr-10ad25aa.local:5004/auto/v14.3
+#EXTINF:-1 channel-id="14.4" channel-number="14.4" tvg-name="Ohio",14.4 Ohio
+http://hdhr-10ad25aa.local:5004/auto/v14.4
+#EXTINF:-1 channel-id="19.1" channel-number="19.1" tvg-name="WXIX-DT",19.1 WXIX-DT
+http://hdhr-10ad25aa.local:5004/auto/v19.1
+#EXTINF:-1 channel-id="19.2" channel-number="19.2" tvg-name="H&I",19.2 H&I
+http://hdhr-10ad25aa.local:5004/auto/v19.2
+#EXTINF:-1 channel-id="19.3" channel-number="19.3" tvg-name="RSN",19.3 RSN
+http://hdhr-10ad25aa.local:5004/auto/v19.3
+#EXTINF:-1 channel-id="19.4" channel-number="19.4" tvg-name="Grit",19.4 Grit
+http://hdhr-10ad25aa.local:5004/auto/v19.4
+#EXTINF:-1 channel-id="19.5" channel-number="19.5" tvg-name="ION",19.5 ION
+http://hdhr-10ad25aa.local:5004/auto/v19.5
+#EXTINF:-1 channel-id="19.6" channel-number="19.6" tvg-name="TruCrim",19.6 TruCrim
+http://hdhr-10ad25aa.local:5004/auto/v19.6
+#EXTINF:-1 channel-id="25.1" channel-number="25.1" tvg-name="WBQC-LD",25.1 WBQC-LD
+http://hdhr-10ad25aa.local:5004/auto/v25.1
+#EXTINF:-1 channel-id="25.2" channel-number="25.2" tvg-name="COZI",25.2 COZI
+http://hdhr-10ad25aa.local:5004/auto/v25.2
+#EXTINF:-1 channel-id="25.3" channel-number="25.3" tvg-name="OUTLAW",25.3 OUTLAW
+http://hdhr-10ad25aa.local:5004/auto/v25.3
+#EXTINF:-1 channel-id="25.4" channel-number="25.4" tvg-name="STARTTV",25.4 STARTTV
+http://hdhr-10ad25aa.local:5004/auto/v25.4
+#EXTINF:-1 channel-id="25.5" channel-number="25.5" tvg-name="365BLK",25.5 365BLK
+http://hdhr-10ad25aa.local:5004/auto/v25.5
+#EXTINF:-1 channel-id="25.6" channel-number="25.6" tvg-name="CATCHY",25.6 CATCHY
+http://hdhr-10ad25aa.local:5004/auto/v25.6
+#EXTINF:-1 channel-id="25.7" channel-number="25.7" tvg-name="DEFY",25.7 DEFY
+http://hdhr-10ad25aa.local:5004/auto/v25.7
+#EXTINF:-1 channel-id="25.8" channel-number="25.8" tvg-name="QUEST",25.8 QUEST
+http://hdhr-10ad25aa.local:5004/auto/v25.8
+#EXTINF:-1 channel-id="25.9" channel-number="25.9" tvg-name="SONLIFE",25.9 SONLIFE
+http://hdhr-10ad25aa.local:5004/auto/v25.9
+#EXTINF:-1 channel-id="26.1" channel-number="26.1" tvg-name="WBDT-HD",26.1 WBDT-HD
+http://hdhr-10ad25aa.local:5004/auto/v26.1
+#EXTINF:-1 channel-id="26.2" channel-number="26.2" tvg-name="Bounce",26.2 Bounce
+http://hdhr-10ad25aa.local:5004/auto/v26.2
+#EXTINF:-1 channel-id="43.1" channel-number="43.1" tvg-name="ION TV",43.1 ION TV
+http://hdhr-10ad25aa.local:5004/auto/v43.1
+#EXTINF:-1 channel-id="45.4" channel-number="45.4" tvg-name="Comet",45.4 Comet
+http://hdhr-10ad25aa.local:5004/auto/v45.4
+#EXTINF:-1 channel-id="48.1" channel-number="48.1" tvg-name="WCET-HD",48.1 WCET-HD
+http://hdhr-10ad25aa.local:5004/auto/v48.1
+#EXTINF:-1 channel-id="48.2" channel-number="48.2" tvg-name="Create",48.2 Create
+http://hdhr-10ad25aa.local:5004/auto/v48.2
+#EXTINF:-1 channel-id="48.3" channel-number="48.3" tvg-name="Art",48.3 Art
+http://hdhr-10ad25aa.local:5004/auto/v48.3
+#EXTINF:-1 channel-id="54.1" channel-number="54.1" tvg-name="KET",54.1 KET
+http://hdhr-10ad25aa.local:5004/auto/v54.1
+#EXTINF:-1 channel-id="54.2" channel-number="54.2" tvg-name="KET2",54.2 KET2
+http://hdhr-10ad25aa.local:5004/auto/v54.2
+#EXTINF:-1 channel-id="54.3" channel-number="54.3" tvg-name="KET-KY",54.3 KET-KY
+http://hdhr-10ad25aa.local:5004/auto/v54.3
+#EXTINF:-1 channel-id="54.4" channel-number="54.4" tvg-name="KETKIDS",54.4 KETKIDS
+http://hdhr-10ad25aa.local:5004/auto/v54.4
+#EXTINF:-1 channel-id="64.1" channel-number="64.1" tvg-name="WSTR",64.1 WSTR
+http://hdhr-10ad25aa.local:5004/auto/v64.1
+#EXTINF:-1 channel-id="64.2" channel-number="64.2" tvg-name="Antenna",64.2 Antenna
+http://hdhr-10ad25aa.local:5004/auto/v64.2
+#EXTINF:-1 channel-id="64.3" channel-number="64.3" tvg-name="Charge!",64.3 Charge!
+http://hdhr-10ad25aa.local:5004/auto/v64.3
+#EXTINF:-1 channel-id="64.4" channel-number="64.4" tvg-name="ROAR",64.4 ROAR
+http://hdhr-10ad25aa.local:5004/auto/v64.4
+#EXTINF:-1 channel-id="64.5" channel-number="64.5" tvg-name="Comet",64.5 Comet
+http://hdhr-10ad25aa.local:5004/auto/v64.5
+#EXTINF:-1 channel-id="105.1" channel-number="105.1" tvg-name="WLWT",105.1 WLWT
+http://hdhr-10ad25aa.local:5004/auto/v105.1
+#EXTINF:-1 channel-id="109.1" channel-number="109.1" tvg-name="WCPO",109.1 WCPO
+http://hdhr-10ad25aa.local:5004/auto/v109.1
+#EXTINF:-1 channel-id="112.1" channel-number="112.1" tvg-name="WKRC",112.1 WKRC
+http://hdhr-10ad25aa.local:5004/auto/v112.1
+#EXTINF:-1 channel-id="114.1" channel-number="114.1" tvg-name="WPTO",114.1 WPTO
+http://hdhr-10ad25aa.local:5004/auto/v114.1
+#EXTINF:-1 channel-id="119.1" channel-number="119.1" tvg-name="WXIX",119.1 WXIX
+http://hdhr-10ad25aa.local:5004/auto/v119.1
+#EXTINF:-1 channel-id="148.1" channel-number="148.1" tvg-name="WCET",148.1 WCET
+http://hdhr-10ad25aa.local:5004/auto/v148.1
+#EXTINF:-1 channel-id="154.1" channel-number="154.1" tvg-name="KET",154.1 KET
+http://hdhr-10ad25aa.local:5004/auto/v154.1
+#EXTINF:-1 channel-id="154.2" channel-number="154.2" tvg-name="KET2",154.2 KET2
+http://hdhr-10ad25aa.local:5004/auto/v154.2
+#EXTINF:-1 channel-id="164.1" channel-number="164.1" tvg-name="WSTR",164.1 WSTR
+http://hdhr-10ad25aa.local:5004/auto/v164.1

@@ -1,0 +1,24 @@
+[
+  {
+    "Category": "series",
+    "ChannelImageURL": "https://img.hdhomerun.com/channels/US20288.png",
+    "ChannelName": "WCPODT",
+    "ChannelNumber": "9.1",
+    "EndTime": 1772510400,
+    "EpisodeNumber": "S08E09",
+    "EpisodeTitle": "Fun and Games",
+    "FirstAiring": 1,
+    "ImageURL": "https://img.hdhomerun.com/titles/C15523389EN6S4L.jpg",
+    "OriginalAirdate": 1772409600,
+    "ProgramID": "EP029705430202",
+    "RecordEndTime": 1772510430,
+    "RecordStartTime": 1772506770,
+    "SeriesID": "C15523389EN6S4L",
+    "StartTime": 1772506800,
+    "Synopsis": "Harper and Miles feel the weight of their recent mistakes, while Harper is tasked with training Miles; Nolan and Celina are dispatched to a robbery call where Nolan encounters a familiar face.",
+    "Title": "The Rookie",
+    "Filename": "The Rookie S08E09 20260302 [20260303-0300].mpg",
+    "PlayURL": "http://hdhr-10ad25aa.local/recorded/play?id=7a3b81c29c98c5c9",
+    "CmdURL": "http://hdhr-10ad25aa.local/recorded/cmd?id=7a3b81c29c98c5c9"
+  }
+]

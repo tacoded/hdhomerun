@@ -1,0 +1,15 @@
+{
+  "FriendlyName": "HDHomeRun FLEX 4K",
+  "ModelNumber": "HDFX-4K",
+  "FirmwareName": "hdhomerun_dvr_atsc3",
+  "FirmwareVersion": "20250815",
+  "DeviceID": "10AD25AA",
+  "DeviceAuth": "5wxYGFnEYfehk2eexONfaazz",
+  "BaseURL": "http://hdhr-10ad25aa.local",
+  "LineupURL": "http://hdhr-10ad25aa.local/lineup.json",
+  "TunerCount": 4,
+  "StorageID": "10AD253C-13D8-41FA-940C-1F9D2D5D9FAA",
+  "StorageURL": "http://hdhr-10ad25aa.local/recorded_files.json",
+  "TotalSpace": 61493039104,
+  "FreeSpace": 57771372544
+}

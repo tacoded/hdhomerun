@@ -1,0 +1,568 @@
+[
+  {
+    "GuideNumber": "2.1",
+    "GuideName": "WDTN HD",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "SignalStrength": 70,
+    "SignalQuality": 50,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v2.1"
+  },
+  {
+    "GuideNumber": "2.2",
+    "GuideName": "ESCAPE",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 70,
+    "SignalQuality": 50,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v2.2"
+  },
+  {
+    "GuideNumber": "5.1",
+    "GuideName": "WLWT-HD",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v5.1"
+  },
+  {
+    "GuideNumber": "5.2",
+    "GuideName": "WLWT-ME",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v5.2"
+  },
+  {
+    "GuideNumber": "5.4",
+    "GuideName": "STORY",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v5.4"
+  },
+  {
+    "GuideNumber": "5.5",
+    "GuideName": "GET TV",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v5.5"
+  },
+  {
+    "GuideNumber": "9.1",
+    "GuideName": "WCPO-HD",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v9.1"
+  },
+  {
+    "GuideNumber": "9.2",
+    "GuideName": "CourtTV",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v9.2"
+  },
+  {
+    "GuideNumber": "9.3",
+    "GuideName": "Bounce",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v9.3"
+  },
+  {
+    "GuideNumber": "9.4",
+    "GuideName": "MYSTERY",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v9.4"
+  },
+  {
+    "GuideNumber": "9.5",
+    "GuideName": "LAFF",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v9.5"
+  },
+  {
+    "GuideNumber": "9.6",
+    "GuideName": "BUSTED",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v9.6"
+  },
+  {
+    "GuideNumber": "9.7",
+    "GuideName": "HSN",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v9.7"
+  },
+  {
+    "GuideNumber": "12.1",
+    "GuideName": "CBS",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v12.1"
+  },
+  {
+    "GuideNumber": "12.2",
+    "GuideName": "CW",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v12.2"
+  },
+  {
+    "GuideNumber": "12.3",
+    "GuideName": "TheNest",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v12.3"
+  },
+  {
+    "GuideNumber": "14.1",
+    "GuideName": "WPTO-HD",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v14.1"
+  },
+  {
+    "GuideNumber": "14.2",
+    "GuideName": "Explore",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v14.2"
+  },
+  {
+    "GuideNumber": "14.3",
+    "GuideName": "Kids",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v14.3"
+  },
+  {
+    "GuideNumber": "14.4",
+    "GuideName": "Ohio",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v14.4"
+  },
+  {
+    "GuideNumber": "19.1",
+    "GuideName": "WXIX-DT",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v19.1"
+  },
+  {
+    "GuideNumber": "19.2",
+    "GuideName": "H&I",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v19.2"
+  },
+  {
+    "GuideNumber": "19.3",
+    "GuideName": "RSN",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v19.3"
+  },
+  {
+    "GuideNumber": "19.4",
+    "GuideName": "Grit",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v19.4"
+  },
+  {
+    "GuideNumber": "19.5",
+    "GuideName": "ION",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v19.5"
+  },
+  {
+    "GuideNumber": "19.6",
+    "GuideName": "TruCrim",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v19.6"
+  },
+  {
+    "GuideNumber": "25.1",
+    "GuideName": "WBQC-LD",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v25.1"
+  },
+  {
+    "GuideNumber": "25.2",
+    "GuideName": "COZI",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v25.2"
+  },
+  {
+    "GuideNumber": "25.3",
+    "GuideName": "OUTLAW",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v25.3"
+  },
+  {
+    "GuideNumber": "25.4",
+    "GuideName": "STARTTV",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v25.4"
+  },
+  {
+    "GuideNumber": "25.5",
+    "GuideName": "365BLK",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v25.5"
+  },
+  {
+    "GuideNumber": "25.6",
+    "GuideName": "CATCHY",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v25.6"
+  },
+  {
+    "GuideNumber": "25.7",
+    "GuideName": "DEFY",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v25.7"
+  },
+  {
+    "GuideNumber": "25.8",
+    "GuideName": "QUEST",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v25.8"
+  },
+  {
+    "GuideNumber": "25.9",
+    "GuideName": "SONLIFE",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v25.9"
+  },
+  {
+    "GuideNumber": "26.1",
+    "GuideName": "WBDT-HD",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "SignalStrength": 70,
+    "SignalQuality": 50,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v26.1"
+  },
+  {
+    "GuideNumber": "26.2",
+    "GuideName": "Bounce",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 70,
+    "SignalQuality": 50,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v26.2"
+  },
+  {
+    "GuideNumber": "43.1",
+    "GuideName": "ION TV",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 70,
+    "SignalQuality": 50,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v43.1"
+  },
+  {
+    "GuideNumber": "45.4",
+    "GuideName": "Comet",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 70,
+    "SignalQuality": 50,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v45.4"
+  },
+  {
+    "GuideNumber": "48.1",
+    "GuideName": "WCET-HD",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v48.1"
+  },
+  {
+    "GuideNumber": "48.2",
+    "GuideName": "Create",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v48.2"
+  },
+  {
+    "GuideNumber": "48.3",
+    "GuideName": "Art",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v48.3"
+  },
+  {
+    "GuideNumber": "54.1",
+    "GuideName": "KET",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v54.1"
+  },
+  {
+    "GuideNumber": "54.2",
+    "GuideName": "KET2",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v54.2"
+  },
+  {
+    "GuideNumber": "54.3",
+    "GuideName": "KET-KY",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v54.3"
+  },
+  {
+    "GuideNumber": "54.4",
+    "GuideName": "KETKIDS",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v54.4"
+  },
+  {
+    "GuideNumber": "64.1",
+    "GuideName": "WSTR",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "HD": 1,
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v64.1"
+  },
+  {
+    "GuideNumber": "64.2",
+    "GuideName": "Antenna",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v64.2"
+  },
+  {
+    "GuideNumber": "64.3",
+    "GuideName": "Charge!",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v64.3"
+  },
+  {
+    "GuideNumber": "64.4",
+    "GuideName": "ROAR",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v64.4"
+  },
+  {
+    "GuideNumber": "64.5",
+    "GuideName": "Comet",
+    "VideoCodec": "MPEG2",
+    "AudioCodec": "AC3",
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v64.5"
+  },
+  {
+    "GuideNumber": "105.1",
+    "GuideName": "WLWT",
+    "VideoCodec": "HEVC",
+    "AudioCodec": "AC4",
+    "HD": 1,
+    "DRM": 1,
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v105.1"
+  },
+  {
+    "GuideNumber": "109.1",
+    "GuideName": "WCPO",
+    "VideoCodec": "HEVC",
+    "AudioCodec": "AC4",
+    "HD": 1,
+    "DRM": 1,
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v109.1"
+  },
+  {
+    "GuideNumber": "112.1",
+    "GuideName": "WKRC",
+    "VideoCodec": "HEVC",
+    "AudioCodec": "AC4",
+    "HD": 1,
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v112.1"
+  },
+  {
+    "GuideNumber": "114.1",
+    "GuideName": "WPTO",
+    "VideoCodec": "HEVC",
+    "AudioCodec": "AC4",
+    "HD": 1,
+    "SignalStrength": 99,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v114.1"
+  },
+  {
+    "GuideNumber": "119.1",
+    "GuideName": "WXIX",
+    "VideoCodec": "HEVC",
+    "AudioCodec": "AC4",
+    "HD": 1,
+    "DRM": 1,
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v119.1"
+  },
+  {
+    "GuideNumber": "148.1",
+    "GuideName": "WCET",
+    "VideoCodec": "HEVC",
+    "AudioCodec": "AC4",
+    "HD": 1,
+    "SignalStrength": 99,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v148.1"
+  },
+  {
+    "GuideNumber": "154.1",
+    "GuideName": "KET",
+    "VideoCodec": "HEVC",
+    "AudioCodec": "AC4",
+    "HD": 1,
+    "SignalStrength": 99,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v154.1"
+  },
+  {
+    "GuideNumber": "154.2",
+    "GuideName": "KET2",
+    "VideoCodec": "HEVC",
+    "AudioCodec": "AC4",
+    "HD": 1,
+    "SignalStrength": 99,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v154.2"
+  },
+  {
+    "GuideNumber": "164.1",
+    "GuideName": "WSTR",
+    "VideoCodec": "HEVC",
+    "AudioCodec": "AC4",
+    "HD": 1,
+    "SignalStrength": 100,
+    "SignalQuality": 100,
+    "URL": "http://hdhr-10ad25aa.local:5004/auto/v164.1"
+  }
+]
