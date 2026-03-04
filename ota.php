@@ -60,9 +60,7 @@ function getSignalColor($value) {
     </thead>
     <tbody>
         <?php foreach ($channels as $channel): ?>
-        <tr<?php if (isset($channel['DRM']) && $channel['DRM'] == 1): ?>
-                     bgcolor="#ffcccc"
-                <?php endif; ?>>
+        <tr>
             <td><strong><?php echo $channel['GuideNumber']; ?></strong></td>
             <td>
                 <?php echo $channel['GuideName']; ?>
