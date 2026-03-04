@@ -27,8 +27,6 @@ tr:last-child td { border-bottom: none; }
 .hd { background: #00bcd4; color: white; }
 .drm { background: #e91e63; color: white; }
 .codec { color: #888; font-size: 0.8rem; }
-.url-btn { text-decoration: none; background: #cccccc; color: white; padding: 5px 10px; border-radius: 4px; font-size: 0.8rem; }
-.url-btn:hover { background: #555555; }
 </style>
 </head>
 <body>
@@ -43,7 +41,6 @@ tr:last-child td { border-bottom: none; }
 <th>Signal Strength</th>
 <th>Signal Quality</th>
 <th>Specs</th>
-<th>Action</th>
 </tr>
 </thead>
 <tbody>
@@ -77,9 +74,6 @@ tr:last-child td { border-bottom: none; }
 </td>
 <td>
 <span class="codec"><?php echo $channel['VideoCodec']; ?> / <?php echo $channel['AudioCodec'] ?? '---'; ?></span>
-</td>
-<td>
-<a class="url-btn" href="<?php echo $channel['URL']; ?>?duration=10">Sample</a>
 </td>
 </tr>
 <?php endforeach; ?>
