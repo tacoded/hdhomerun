@@ -32,7 +32,7 @@ function getSignalColor($value) {
         .bar-bg { flex-grow: 1; background: #aaa; height: 8px; border-radius: 4px; overflow: hidden; }
         .bar-fill { height: 100%; border-radius: 4px; transition: width 0.5s ease-in-out; }
 
-        .badge { padding: 2px 6px; border-radius: 3px; font-size: 0.7rem; font-weight: 800; margin-right: 4px; display: inline-block; vertical-align: middle; }
+        .badge { padding: 2px 6px; border-radius: 10px; font-size: 0.7rem; font-weight: 800; margin-right: 4px; display: inline-block; vertical-align: middle; }
         .hd { background: #00bcd4; color: white; }
         .drm { background: #e91e63; color: white; }
         .codec { color: #888; font-size: 0.8rem; }
